@@ -1,4 +1,4 @@
-### Financials Dât EDA Project
+### Financials Data EDA Project
 
 ---
 
